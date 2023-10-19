@@ -7,9 +7,9 @@ public class Сircle {
         double PI=3.14159265;
         radius=5.5;
         //calculation
-        perimeter=2*radius;
+        perimeter=2*radius*PI;
         area=radius*radius*PI;
         //output
-        System.out.println("The area for the circle of radius "+radius+" is "+area+"and perimeter is "+perimeter);
+        System.out.println("The area for the circle of radius "+radius+" is "+area+" and perimeter is "+perimeter);
     }
 }
