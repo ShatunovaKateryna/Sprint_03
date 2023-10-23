@@ -1,5 +1,4 @@
 package Sprint_03;
-
 public class Degrees {
     //Shatunova Kateryna CS-12
     public static void main(String[] args) {
